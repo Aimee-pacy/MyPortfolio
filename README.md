@@ -2,7 +2,7 @@
 ## author name: Aimee Pacifique ISHIMWE
 ## description of project: this is my portfolio which shows what I can do and what I have done so far.
 ## project setup instructions
-## link to live site on GitHub Pages: [https://aimee-pacy.github.io] MyPortfolio
+## link to live site on GitHub Pages: https://aimee-pacy.github.io/MyPortfolio/[My Portfolio] 
 ## copyright and license information:
 ## Copyright (c) [2020] [Aimee Pacifique ISHIMWE]
 
